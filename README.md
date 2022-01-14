@@ -6,7 +6,10 @@ Your website will be shown as normal but the HTML-code will be encrypted by Java
 
 This script was made by myself without the intervention of others.!
 ```
-<center><img src="https://discord.c99.nl/widget/theme-2/447411230098063362.png">
+<p align="center"><br>
+  <a href="https://github.com/penucuriCode">
+    <img src="https://lanyard-profile-readme.vercel.app/api/447411230098063362"/>
+     </a>
 <h2>📣 Live HTML Encrypt : <a href="https://penucuricode.github.io/HTML-Encrypt.github.io/">Live NOW</a></h2>
 <br><br>
 <img src="https://github.com/SourCode-Z/HTML-Encrypted/blob/main/img/encryt.jpg">
